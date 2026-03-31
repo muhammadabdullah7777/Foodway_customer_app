@@ -37,12 +37,7 @@ lerna-debug.log*
 coverage/
 
 # Editor / IDE
-.vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
-!.vscode/launch.json
-!.vscode/tasks.json
-.vscode/.react/
+.vscode/
 .idea/
 
 # OS files
